@@ -6,7 +6,7 @@ this code can be run on the data stream provided by a kinect or on a previously 
 * To run over a dataset (as the one in the folder "dataset") go to "dataset_capture"
 
 ## Source ##
-The code was copied and addapted from here:
+The code was copied and adapted from here:
 * http://pointclouds.org/documentation/tutorials/tracking.php
 * http://pointclouds.org/documentation/tutorials/template_alignment.php
 
