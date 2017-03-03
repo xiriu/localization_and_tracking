@@ -1,6 +1,6 @@
 ### Compiling ###
 
-inside /localizing_and_tracking/dataset_capture run
+inside /localization_and_tracking/dataset_capture run
 `mkdir build && cd build && cmake ..`
 
 ### Running ###
