@@ -1,0 +1,1 @@
+given a folder with subfolders called rgb and depth, the function returns a 3d colored point cloud 
